@@ -16,6 +16,6 @@
     "handlebars": "^4.1.2",
     "mongo": "^0.1.0",
     "mongojs": "^2.6.0",
-    "mongoose": "^5.6.1"
+    "mongoose": "^5.7.5"
   }
 }
